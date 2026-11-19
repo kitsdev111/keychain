@@ -1,0 +1,11 @@
+Item #,Designator,Qty,Manufacturer,Mfg Part #,Description / Value,Package / Footprint,Type [SMD/THT],LCSC / Supplier Part #
+1,U1,1,Microchip Technology,ATTINY1616-MNR,"8-bit AVR MCU, 16KB Flash, 1.8V-5.5V, VQFN-20 (3x3mm)",VQFN-20 (3x3mm),SMD,C507118
+2,C1,1,YAGEO,CC0603KRX7R9BB104,MLCC 100nF 50V X7R +/-10% 0603,0603,SMD,C14663
+3,D1,1,Diodes Incorporated,BAT54WS-7-F,"Schottky Barrier Diode 30V 200mA Low-Vf, SOD-323",SOD-323,SMD,C668868
+4,D2,1,onsemi,SZBZX84C5V1LT1G,"Zener Diode 5.1V 225mW Voltage Clamp, SOT-23",SOT-23,SMD,C150218
+5,SW1,1,hanxia,HX 3x4x2-2P-1.6N,SMD Tactile Push Button 3x4x2mm 160gf SPST-NO,SMD-2P (3x4mm),SMD,C49234124
+6,"LED1, LED2, LED3, LED4, LED5, LED6, LED7",7,KENTO,KT-0603R,"Red 0603 SMD LED (620-630nm, Vf ~2.0V)",0603,SMD,C2286
+7,"R1, R2, R3, R4, R5, R6, R7",7,UNI-ROYAL,0603WAF6800T5E,Thick Film Resistor 680 Ohm +/-1% 1/10W 0603,0603,SMD,C23228
+8,C_SC1,1,Viking / Kamcap,SC5V5H105Z,"5.5V 1.0F Coin-Type EDLC Supercapacitor (7.5mm Pitch, Hand-Soldered THT)",Radial Coin Ø19.2x4.8mm P7.5mm,THT (DNP for SMT),N/A (Hand-Solder / AliExpress)
+9,"C2, C3",2,Optional,DNP,Optional Parallel High-Cap 1210 MLCC / SMD Supercap Footprint (Do Not Populate),1210,DNP,DNP
+10,SOL1,1,Generic,SOLAR-5V-25X30,5V/5.5V Mini Epoxy Solar Panel ~25x30mm (External Wire-Soldered to SOL+/SOL-),25x30x2.5mm Module,DNP (External),N/A (AliExpress)

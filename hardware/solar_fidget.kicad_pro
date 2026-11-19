@@ -1,0 +1,88 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.25,
+        "silk_line_width": 0.15
+      },
+      "rules": {
+        "min_clearance": 0.15,
+        "min_track_width": 0.2,
+        "min_via_diameter": 0.5,
+        "min_via_drill": 0.25
+      }
+    },
+    "layer_presets": [],
+    "viewports": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "solar_fidget.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "clearance": 0.2,
+        "name": "Default",
+        "track_width": 0.25,
+        "via_diameter": 0.55,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "Power",
+        "track_width": 0.4,
+        "via_diameter": 0.7,
+        "via_drill": 0.35
+      }
+    ],
+    "netclass_assignments": {
+      "SOL+": [
+        "Power"
+      ],
+      "VCC": [
+        "Power"
+      ],
+      "GND": [
+        "Power"
+      ]
+    }
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "plot": "",
+      "pos_files": "",
+      "specctra_dsn": "",
+      "step": "",
+      "vrml": ""
+    }
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "drawing": {
+      "default_line_thickness": 6.0
+    },
+    "legacy_lib_dir": "",
+    "meta": {
+      "version": 1
+    }
+  },
+  "sheets": [
+    [
+      "e228e8c7-b85b-503e-b5dc-e1c9b41bc2b3",
+      "Root"
+    ]
+  ]
+}
